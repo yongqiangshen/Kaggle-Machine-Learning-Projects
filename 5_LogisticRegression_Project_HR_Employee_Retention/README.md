@@ -1,0 +1,3 @@
+# Introduction
+
+In this post, we will be analyzing a synthetic dataset from Kaggle that contains information from about 15,000 employees of a company regarding their satisfaction level, number of projects, seniority, and other metrics of their employment, along with a binary variable indicating whether they left the company or not. The purpose of this analysis will be to visualize multivariate relationships among the data that may explain what is causing employees to leave, and to utilize different modeling techniques to most accurately predict whether an employee will leave the company or not.
